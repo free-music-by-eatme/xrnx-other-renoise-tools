@@ -146,7 +146,7 @@ The game is a draw if the whole board is filled and there is no combination of f
 
 -=-
 
-6a. FourConnect
+6b. FourConnect
 
 -=-
 
