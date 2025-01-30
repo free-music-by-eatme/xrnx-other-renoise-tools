@@ -1,7 +1,7 @@
 USER MANUAL 
 Games by EatMe as tool for Renoise 
 
-last updated 2024-01-22 by EatMe 
+last updated 2025-01-30 by EatMe 
 
 -=-
 
@@ -24,6 +24,7 @@ CONTENTS
 6i. PawnThrowing
 6j. StarGame
 6k. Wordle (EN/ESP/PT) and Lingo (NL)
+6l. BeeHaven
 7. Contact info / Web links
 
 -=-
@@ -286,6 +287,20 @@ The game of Wordle (EN, ESP, PT), Lingo (NL)..
 Find the hidden 5 letter word within 5 (valid) word attempts.
 Type on the computer keyboard to enter letters into the Wordle field.
 F1: hint first character.
+
+-=-
+
+6l. BeeHaven
+
+-=-
+
+Place arrows for the bees to the beehive, over flower(s) for more points. 
+Bees can follow the same route, but not end on each other.
+Bees can go over multiple flowers.
+A route through a flower passes out the other way.
+A random arrow to place each turn appears lower left, click on an empty field to place the arrow.
+You get points for route length, passing flowers and reaching a beehive with a bee.
+The round is over when all bees reach a beehive or have no more ways to go, or when the whole board is full.
 
 -=-
 
