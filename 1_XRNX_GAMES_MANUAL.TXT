@@ -1,7 +1,7 @@
 USER MANUAL 
 Games by EatMe as tool for Renoise 
 
-last updated 2025-07-12 by EatMe 
+last updated 2025-08-23 by EatMe 
 
 -=-
 
@@ -26,6 +26,8 @@ CONTENTS
 6k. Wordle (EN/ESP/PT) and Lingo (NL)
 6l. BeeHaven
 6m. Memory
+6n. PumpDream
+
 7. Contact info / Web links
 
 -=-
@@ -140,6 +142,7 @@ and click the Uninstall button.
 6k. Wordle (EN/ESP/PT) and Lingo (NL)
 6l. Beehaven
 6m. Memory
+6n. PumpDream
 
 -=-
 
@@ -321,6 +324,21 @@ Click a card to reveal.
 
 -=-
 
+6n. PumpDream
+
+-=-
+
+Close pipes to all ends. Use Cursor keys and Enter or Click.
+
+Put closed pipes from pump to finish(es).
+Use Cursor and Enter keys or click brown open fields to lay pipes.
+Press the pump to start pumping to the finish. 
+This will only win the round with no open pipes in the route ending on a brown start field. 
+All pipes in the route must be closed, and all finish(es) must be reached. 
+When you are -stuck-, start the pump. 
+
+-=-
+
 7. Contact info / Web links 
 
 -=-
@@ -335,8 +353,6 @@ email: send.something.here (at@at) eatme.pro
 Games by EatMe as tool for Renoise:  
 https://github.com/free-music-by-eatme/xrnx-other-renoise-tools/ 
 https://archive.org/details/games-for-renoise
-
-
 
 
 
