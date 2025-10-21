@@ -1,7 +1,7 @@
 USER MANUAL 
 Games by EatMe as tool for Renoise 
 
-last updated 2025-09-24 by EatMe 
+last updated 2025-10-19 by EatMe 
 
 -=-
 
@@ -66,6 +66,10 @@ https://github.com/free-music-by-eatme/xrnx-other-renoise-tools/
 Download from internet archive:
 https://archive.org/details/games-for-renoise
 
+Download from website:
+http://www.eatme.pro/software
+reserve backup mirror: https://ietmie.neocities.org/software 
+
 At Github,
 Click the green Code button and click Download ZIP for all games.
 Extract the .zip to somewhere.
@@ -76,6 +80,8 @@ and click at the right top . . . 3 Points, and click Download.
 
 At archive.org,
 Click the (All Files) link on the right side of the item page.
+
+At website, click the image or .xrnx download link to download.
 
 Continue with 
 section 3. Installing and downloading Renoise (required)
@@ -229,6 +235,8 @@ Click for next turn.
 With 8 animals trying to reach their partner.
 Who wins?
 
+-=-
+
 6g. DuckieBoard
 
 -=-
@@ -370,3 +378,5 @@ email: send.something.here (at@at) eatme.pro
 Games by EatMe as tool for Renoise:  
 https://github.com/free-music-by-eatme/xrnx-other-renoise-tools/ 
 https://archive.org/details/games-for-renoise
+http://www.eatme.pro/software
+reserve backup mirror: https://ietmie.neocities.org/software 
